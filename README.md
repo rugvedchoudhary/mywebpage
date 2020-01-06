@@ -1,2 +1,2 @@
 # mywebpage
-This is rugved choudahary
+This is rugved choudahary from MNIT JAIPUR
